@@ -7,18 +7,18 @@ public class Day {
 		Scanner in = new Scanner(System.in);
 		 int x = in.nextInt();
 		 if (x == 1) { 
-			 System.out.println("Понедельник");}
+			 System.out.println("Monday");}
 		 if (x == 2) { 
-			 System.out.println("Вторник");}
+			 System.out.println("Tuesday");}
 		 if (x == 3) { 
-			 System.out.println("Среда");}
+			 System.out.println("Wednesday");}
 		 if (x == 4) { 
-			 System.out.println("Четверг");}
+			 System.out.println("Thursday");}
 		 if (x == 5) { 
-			 System.out.println("Пятница");}
+			 System.out.println("Friday");}
 		 if (x == 6) { 
-			 System.out.println("Суббота");}
+			 System.out.println("Saturday");}
 		 if (x == 7) { 
-			 System.out.println("Воскресенье");}
+			 System.out.println("Sunday");}
 	}
 }
